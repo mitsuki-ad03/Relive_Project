@@ -1,8 +1,8 @@
 [
 null,
 {"id":1,"expanded":true,"name":"部屋","order":1,"parentId":0,"scrollX":550.8571428571429,"scrollY":356.57142857142856},
-{"id":2,"expanded":false,"name":"ルーフバルコニー","order":2,"parentId":1,"scrollX":550.8571428571429,"scrollY":356.57142857142856},
+{"id":2,"expanded":false,"name":"ルーフバルコニー","order":2,"parentId":1,"scrollX":486.54545454545456,"scrollY":356.72727272727275},
 {"id":3,"expanded":true,"name":"部屋(夢)","order":3,"parentId":0,"scrollX":320,"scrollY":240},
-{"id":4,"expanded":false,"name":"ルーフバルコニー(夢)","order":4,"parentId":3,"scrollX":550.8571428571429,"scrollY":347.42857142857144},
-{"id":5,"expanded":false,"name":"エントランス","order":5,"parentId":0,"scrollX":625.1428571428571,"scrollY":347.42857142857144}
+{"id":4,"expanded":false,"name":"ルーフバルコニー(夢)","order":4,"parentId":3,"scrollX":486.54545454545456,"scrollY":352.3636363636364},
+{"id":5,"expanded":false,"name":"エントランス","order":5,"parentId":0,"scrollX":625.0909090909091,"scrollY":352.3636363636364}
 ]
