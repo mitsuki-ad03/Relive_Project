@@ -5,10 +5,10 @@ null,
 {"id":3,"expanded":false,"name":"部屋(夢)","order":4,"parentId":8,"scrollX":540.5,"scrollY":361.5},
 {"id":4,"expanded":false,"name":"ルーフバルコニー(夢)","order":5,"parentId":3,"scrollX":550.8571428571429,"scrollY":404},
 {"id":5,"expanded":false,"name":"エントランス","order":6,"parentId":8,"scrollX":626.5,"scrollY":450.5},
-{"id":6,"expanded":true,"name":"MyRoom","order":7,"parentId":0,"scrollX":540.5,"scrollY":361.5},
-{"id":7,"expanded":true,"name":"MyRoom(Dream)","order":9,"parentId":0,"scrollX":540.5,"scrollY":361.5},
-{"id":8,"expanded":false,"name":"old","order":1,"parentId":0,"scrollX":550.8571428571429,"scrollY":316},
-{"id":9,"expanded":true,"name":"Balcony","order":8,"parentId":6,"scrollX":550.8571428571429,"scrollY":404},
-{"id":10,"expanded":false,"name":"Entrance","order":11,"parentId":0,"scrollX":548.5,"scrollY":501.5},
-{"id":11,"expanded":true,"name":"Balcony(Dream)","order":10,"parentId":7,"scrollX":540.5,"scrollY":361.5}
+{"id":6,"expanded":true,"name":"MyRoom","order":7,"parentId":0,"scrollX":520.9090909090909,"scrollY":386.72727272727275},
+{"id":7,"expanded":true,"name":"MyRoom(Dream)","order":9,"parentId":0,"scrollX":482.5,"scrollY":361.5},
+{"id":8,"expanded":false,"name":"old","order":1,"parentId":0,"scrollX":477.5,"scrollY":354.5},
+{"id":9,"expanded":true,"name":"Balcony","order":8,"parentId":6,"scrollX":482.5,"scrollY":365.5},
+{"id":10,"expanded":false,"name":"Entrance","order":11,"parentId":0,"scrollX":668.5,"scrollY":597.5},
+{"id":11,"expanded":true,"name":"Balcony(Dream)","order":10,"parentId":7,"scrollX":482.5,"scrollY":361.5}
 ]
