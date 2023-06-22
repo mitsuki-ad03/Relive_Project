@@ -27,6 +27,17 @@ const PLUGIN_NAME = "ReliveTools";
 
 (() => {
     'use strict';
+    // タッチUIの除去
+    ConfigManager['touchUI'] = false;
+    ConfigManager.save();
+
+    const scene_map_start = Scene_Map.prototype.start;
+    Scene_Map.prototype.start = function() {
+        scene_map_start.call(this);
+        this._windowLayer.removeChild(this._menuButton);
+        this._menuButton = null;
+    };
+    // コマンド
     PluginManager.registerCommand(PLUGIN_NAME, 'SavePlayerVector', args => {
         $gameVariables.setValue(1, $gameMap.mapId());
         $gameVariables.setValue(2, $gamePlayer.x);
